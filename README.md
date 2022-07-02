@@ -4,6 +4,9 @@ DAO as it's commonly called is an acronym for Decentralized Autonomous Organizat
 
 This project makes use of my CryptoDevNFT as the means to be a part of the DAO. I made use of NextJs to build the frontend of this project. The smart contract was written in Solidity and deployed on Rinkeby testnet
 
+DAO contract address : `0x8336C4994D70Ce592c38753c25132dFcEBAef9BB`
+
+Smart contract code: [https://github.com/valodagreat/dao](https://github.com/valodagreat/dao)
 ## Running App
 The live version of the app can be found [here](https://dao-frontend-ten.vercel.app/)
 
